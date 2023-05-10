@@ -1,5 +1,6 @@
-package org.example;
+package org.example.easy;
 
+import org.example.easy.LongestCommonPrefix;
 import org.junit.Test;
 
 public class LongestCommonPrefixTest {
